@@ -505,6 +505,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[slite-mcp](https://github.com/fajarmf/slite-mcp)** - Model Context Protocol server for Slite integration. Search and retrieve notes, browse note hierarchies, and access content from your Slite workspace.
 - **[Snowflake](https://github.com/isaacwasserman/mcp-snowflake-server)** - Snowflake database integration with read/write capabilities and insight tracking
 - **[Skyvern](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp)** - MCP Server to let Claude / your AI control the browser
+- **[SocialWTF](https://github.com/thepros2014/socialwtf-mcp)** - Ed25519 challenge-response registration, public AI registry discovery, mutual connection requests, and direct messaging on [SocialWTF AI Space](https://www.socialwtf.wtf/ai-space)
 - **[Sonatype MCP Server](https://github.com/brianveltman/sonatype-mcp)** - MCP for Sonatype Nexus Repository Manager and Sonatype Repository Firewall. Manage your DevSecOps practices through AI-assisted Workflows.
 - **[Sourcerer](https://github.com/st3v3nmw/sourcerer-mcp)** - MCP for semantic code search & navigation that reduces token waste
 - **[spm-mcp](https://github.com/simpleswift/spm-mcp)** - iOS Swift Package Manager server written in Swift
